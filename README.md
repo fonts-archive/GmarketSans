@@ -4,7 +4,7 @@
 
 &nbsp;
 
-CSS
+### CSS
 
 ```
 font-family: 'Gmarket Sans';
@@ -12,7 +12,7 @@ font-family: 'Gmarket Sans';
 
 &nbsp;
 
-link
+### link
 
 ```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/GmarketSans/GmarketSans.css" type="text/css"/>
@@ -20,7 +20,7 @@ link
 
 &nbsp;
 
-import
+### import
 
 ```
 @import url('https://cdn.jsdelivr.net/gh/fonts-archive/GmarketSans/GmarketSans.css');
@@ -28,7 +28,7 @@ import
 
 &nbsp;
 
-font-face
+### font-face
 
 ```
 @font-face {
@@ -61,4 +61,18 @@ font-face
          url('https://cdn.jsdelivr.net/gh/fonts-archive/GmarketSans/GmarketSansBold.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/GmarketSans/GmarketSansBold.ttf') format('truetype');
 }
+```
+
+&nbsp;
+
+### 라이센스 본문
+
+```
+G마켓 브랜드 아이덴티티를 담은 서체 'Gmarket Sans'를 소개합니다. 
+ 
+Gmarket Sans는 다양한 브랜드, 판매자, 사용자가 함께 성장하며 가치를 나눌 수 있도록 만든 글꼴입니다. 
+ 
+누구나 아무 제약 없이 쉽게 사용할 수 있습니다. 
+ 
+Gmarket Sans는 누구나 제약 없이 자유롭게 수정하고 재배포 하실 수 있습니다.
 ```
